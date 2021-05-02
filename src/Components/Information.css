@@ -1,0 +1,21 @@
+.information-box {
+  min-width: 200px;
+  padding: 10px;
+  margin: 10px;
+}
+.information-box:nth-of-type(1) {
+  background-color: #d5e6ff;
+}
+
+.information-box:nth-of-type(2) {
+  background-color: #adcaf2;
+}
+
+h3.information-title {
+  text-align: center;
+  color: #112e67;
+}
+
+p.information-content {
+  text-align: center;
+}
